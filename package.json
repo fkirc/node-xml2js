@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "sax": ">=0.6.0",
-    "xmlbuilder": "~11.0.0"
+    "xmlbuilder": "https://github.com/fkirc/xmlbuilder-js/tarball/attranslate"
   },
   "engines": {
     "node": ">=4.0.0"
